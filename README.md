@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reelsee
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript (beginner, though!)
 
 <!---
 Reelsee/Reelsee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
